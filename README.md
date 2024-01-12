@@ -1,2 +1,3 @@
 # Project-Demo
-A Small Demo for Git &amp; GitHub
+A Small Demo for Git &amp; GitHub.
+
